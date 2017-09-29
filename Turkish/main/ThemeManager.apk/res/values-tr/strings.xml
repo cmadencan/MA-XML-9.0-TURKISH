@@ -293,7 +293,7 @@
   <string name="resource_search_color_hint_white">Beyaz</string>
   <string name="resource_search_color_hint_yellow">Sarı</string>
   <string name="resource_search_list_empty">"Bir şey bulunamadı."</string>
-  <string name="resource_see_more">Fazlasını Görüntülü</string>
+  <string name="resource_see_more">Daha fazla göster</string>
   <string name="resource_select">Seç</string>
   <string name="resource_select_alarm_audio_confirm">Bu bildirim sesi seçilsin mi?</string>
   <string name="resource_select_audio_confirm_picker">Bu ses seçilsin mi?</string>
